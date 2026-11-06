@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BookManagement.BLL/BookManagement.BLL.csproj" />
+  <Project Path="BookManagement.DAL/BookManagement.DAL.csproj" />
+  <Project Path="BookManagement.Entity/BookManagement.Entity.csproj" />
+  <Project Path="BookManagement.GUI/BookManagement.GUI.csproj" />
+</Solution>
